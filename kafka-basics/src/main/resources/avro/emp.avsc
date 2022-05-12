@@ -1,0 +1,12 @@
+{
+   "namespace" : "Tutorialspoint",
+   "type" : "record",
+   "name" : "Employee",
+   "fields" : [
+      { "name" : "name" , "type" : "string" },
+      { "name" : "id" , "type" : "int" },
+      { "name" : "salary" , "type" : "int" },
+      { "name" : "age" , "type" : "int" },
+      { "name" : "address" , "type" : "string" }
+   ]
+}
